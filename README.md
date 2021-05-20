@@ -3,7 +3,7 @@
 <img src="https://github.com/AdityaGans2542/AdityaRDP/blob/main/wallpaper.png" width=900 height="600" align="center">
 <center>
 <p align="center">
-<a href="#"><img title="FREE RDP GITHUB" src="https://img.shields.io/badge/AdityaRDP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FREE RDP GITHUB" src="https://img.shields.io/badge/BezXRDP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"><img title="Rating" src="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"></a>
